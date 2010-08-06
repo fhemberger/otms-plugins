@@ -1,0 +1,46 @@
+<PLUGINS>
+	<PLUGIN name="Transfer: Read RedDot Descriptions" url="TransferRedDotDescriptions/ReadDescriptions.asp" compatibility="7.5.0.0" company="" contact="Frederic Hemberger" email="mail@frederic-hemberger.de" telefon="" website="http://frederic-hemberger.de">
+		<DESCRIPTIONS>
+			<DEU name="RedDot Beschreibungstexte dieser Sprachvariante auslesen" />
+			<ENG name="Read RedDot descriptions of this language variant" />
+			<CHS name="Read RedDot descriptions of this language variant" />
+			<CSY name="Read RedDot descriptions of this language variant" />
+			<FRC name="Read RedDot descriptions of this language variant" />
+			<ELL name="Read RedDot descriptions of this language variant" />
+			<HUN name="Read RedDot descriptions of this language variant" />
+			<ITA name="Read RedDot descriptions of this language variant" />
+			<JPN name="Read RedDot descriptions of this language variant" />
+			<PLK name="Read RedDot descriptions of this language variant" />
+			<PTB name="Read RedDot descriptions of this language variant" />
+			<ESN name="Read RedDot descriptions of this language variant" />
+			<SVE name="Read RedDot descriptions of this language variant" />
+		</DESCRIPTIONS>
+		<TARGETS>
+			<TARGET target="ioTreeProjectStart" />
+		</TARGETS>
+		<ICON source="../ActionMenuIcons/Common_CopyClipboard.gif" />
+		<OPENWINDOWPARAMETER features="toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=400,height=480,screenX=200,screenY=200,left=200,top=200" />
+	</PLUGIN>
+	<PLUGIN name="Transfer: Write RedDot Descriptions" url="TransferRedDotDescriptions/WriteDescriptions.asp" compatibility="7.5.0.0" company="" contact="Frederic Hemberger" email="mail@frederic-hemberger.de" telefon="" website="http://frederic-hemberger.de">
+		<DESCRIPTIONS>
+			<DEU name="RedDot Beschreibungstexte in diese Sprachvariante schreiben" />
+			<ENG name="Write RedDot descriptions of this language variant" />
+			<CHS name="Write RedDot descriptions of this language variant" />
+			<CSY name="Write RedDot descriptions of this language variant" />
+			<FRC name="Write RedDot descriptions of this language variant" />
+			<ELL name="Write RedDot descriptions of this language variant" />
+			<HUN name="Write RedDot descriptions of this language variant" />
+			<ITA name="Write RedDot descriptions of this language variant" />
+			<JPN name="Write RedDot descriptions of this language variant" />
+			<PLK name="Write RedDot descriptions of this language variant" />
+			<PTB name="Write RedDot descriptions of this language variant" />
+			<ESN name="Write RedDot descriptions of this language variant" />
+			<SVE name="Write RedDot descriptions of this language variant" />
+		</DESCRIPTIONS>
+		<TARGETS>
+			<TARGET target="ioTreeProjectStart" />
+		</TARGETS>
+		<ICON source="../ActionMenuIcons/Common_PasteClipboard.gif" />
+		<OPENWINDOWPARAMETER features="toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=480,screenX=200,screenY=200,left=200,top=200" />
+	</PLUGIN>
+</PLUGINS>

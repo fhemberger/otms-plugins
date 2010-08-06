@@ -1,0 +1,87 @@
+* html { height: 100%; }
+
+body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font: 12px "Arial Unicode MS", Arial, Helvetica, sans-serif;
+	background: #ccd7e1 url(/cms/Icons/back5.gif);
+}
+*+html body { padding-bottom: 50px; }
+
+form {
+	background: #dfdfdf;
+	border: 2px solid #cdcfce;
+	padding: 20px;
+	margin: 20px 20px 0 20px;
+	height: 1%;
+}
+* html form { padding-right: 0; margin-bottom: 20px; }
+
+h2 {
+	font-size: 12px;
+	background: #5a6e83 url(/cms/Icons/Background/titlebar.gif) repeat-x;
+	color: #fff;
+	padding: 4px 5px;
+	margin: -17px -17px 10px -17px;
+}
+
+
+fieldset {
+	position: relative;
+	margin: 2.5em 2.5em 0 0;
+	padding: 2px 5px;
+	border: 0px none;
+	background-color: #ccc;
+	width: 45%;
+	float: left;
+}
+
+legend {
+	position: absolute;
+	top: -1.5em;
+	left: -7px;
+	color: #000;
+	font-weight: bold;
+}
+
+label.language-variant {
+	background: url(/cms/Icons/Languagevariant.gif) 2px 0 no-repeat;
+	padding-left: 22px;
+}
+
+label.project-variant {
+	background: url(/cms/Icons/Projectvariants.gif) 2px 0 no-repeat;
+	padding-left: 22px;
+}
+
+
+#response { margin: 20px 20px 0 20px; }
+
+#footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	border-top: 2px solid #cdcfce;
+	background: #fff;
+	padding: 7px 10px 3px;
+	margin: 0 -20px;
+	width: 100%;
+}
+
+button {
+	display: block;
+	float: right;
+	margin: 0 3px 0 3px;
+	background: url(/cms/Icons/CommandButtons/background.gif) repeat-x;
+	border: 1px solid #afafaf;
+	font-size: 12px;
+	text-align: left;
+	width: 70px;
+}
+
+button div { padding: 4px 5px 4px 20px; margin: 0 5px; }
+button div.submit { background: url(/cms/Icons/CommandButtons/start.gif) no-repeat 0 3px; }
+button div.cancel { background: url(/cms/Icons/CommandButtons/no.gif) no-repeat 0 3px; }
+button div.close  { background: url(/cms/Icons/CommandButtons/close.gif) no-repeat 0 3px; }

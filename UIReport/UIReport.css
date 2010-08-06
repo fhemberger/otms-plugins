@@ -1,0 +1,64 @@
+body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font: 12px "Arial Unicode MS", Arial, Helvetica, sans-serif;
+	background: #ccd7e1 url(../Icons/back5.gif);
+}
+
+form {
+	background: #dfdfdf;
+	border: 2px solid #cdcfce;
+	padding: 2px 2px 20px;
+	text-align: center;
+	margin: 20px 20px 0 20px;
+}
+
+label {
+	display:block;
+	background: #5a6e83 url(../Icons/Background/titlebar.gif) repeat-x;
+	color: #fff;
+	font-weight: bold;
+	padding: 4px 5px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+textarea {
+	display: block;
+	height: 300px;
+	width: 95%;
+	margin: 0 10px;
+	border: 1px solid #000;
+	text-align: left;
+}
+
+#response { margin: 20px 20px 0 20px; }
+
+#footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	border-top: 2px solid #cdcfce;
+	background: #fff;
+	padding: 7px 10px 3px;
+	margin: 0 -20px;
+	width: 100%;
+}
+
+button {
+	display: block;
+	float: right;
+	margin: 0 3px 0 3px;
+	background: url(../Icons/CommandButtons/background.gif) repeat-x;
+	border: 1px solid #afafaf;
+	font-size: 12px;
+	text-align: left;
+	width: 70px;
+}
+
+button div { padding: 4px 5px 4px 20px; margin: 0 5px; }
+button div.submit { background: url(../Icons/CommandButtons/start.gif) no-repeat 0 3px; }
+button div.cancel { background: url(../Icons/CommandButtons/no.gif) no-repeat 0 3px; }
+button div.close  { background: url(../Icons/CommandButtons/close.gif) no-repeat 0 3px; }
