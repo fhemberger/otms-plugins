@@ -3,7 +3,6 @@ Transfer RedDot Descriptions
 
 Version: 1.0 (2009-12-11)
 Author:  Frederic Hemberger, mail[at]frederic-hemberger[dot]de
-         Some rights reserved.
 
 This plugin transfers the RedDot description texts from one interface language
 to another, therefore it's split into two components: The first part reads
@@ -60,38 +59,24 @@ The plugin is linked to the page tree's project node in Smart Tree.
 
 
 
-LICENSE
+LICENSE (The MIT-License)
 =======
 
-This software is licensed under a Creative Commons License:
+Copyright (c) 2009 Frederic Hemberger
 
-Attribution-Share Alike 3.0
-(http://creativecommons.org/licenses/by-sa/3.0/)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You are free:
-
-    * to Share — to copy, distribute and transmit the work
-    * to Remix — to adapt the work
-
-Under the following conditions:
-
-    * Attribution. You must attribute the work in the manner specified by the
-      author or licensor (but not in any way that suggests that they endorse
-      you or your use of the work).
-    * Share Alike. If you alter, transform, or build upon this work, you may
-      distribute the resulting work only under the same, similar or a
-      compatible license.
-    * For any reuse or distribution, you must make clear to others the license
-      terms of this work.
-    * Any of the above conditions can be waived if you get permission from the
-      copyright holder.
-    * Nothing in this license impairs or restricts the author's moral rights.
-
-
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN

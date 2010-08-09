@@ -4,23 +4,8 @@
 '
 ' 2009-04-21, Frederic Hemberger
 '
-' This software is licensed under a Creative Commons
-' Attribution-Share Alike 3.0 License. Some rights reserved.
-' http://creativecommons.org/licenses/by-sa/3.0/
-'
-' If you make modifications/improvements to this software,
-' please drop me a note at mail[at]frederic-hemberger[dot]de
-' so I can include it in future releases.
-'
-'
-' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-' EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-' OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-' NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-' HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-' WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-' FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-' OTHER DEALINGS IN THE SOFTWARE.
+' This software is distributed under the MIT license:
+' http://www.opensource.org/licenses/mit-license
 ' -------------------------------------------------------------------
 
 LOGIN_GUID = Session("LoginGuid")
